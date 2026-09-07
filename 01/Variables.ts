@@ -6,7 +6,7 @@ greetings.toLowerCase()
 
 console.log(greetings);
 
-//number (bilo koj broj, nema int float ili bilo sto drugo)
+//number (any number, no int no float option)
 let userId = 334455.4
 
 userId.toFixed()
