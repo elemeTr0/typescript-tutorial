@@ -10,5 +10,4 @@ let myUser = {
     isActive: false,
 };
 myUser.email = "h@gmail.com";
-myUser._id = "asa"; //readonly
 export {};

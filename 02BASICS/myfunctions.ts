@@ -31,11 +31,11 @@ const getHello = (s: string):string => {
     return ""
 }
 
-const heros = ["thor", "spiderman", "ironman"]
+const heroes = ["thor", "spiderman", "ironman"]
 // const heros = [1,2,3]
 
-heros.map((hero: string):string => {
-    return 'hero is ${hero}'
+heroes.map((hero: string):string => {
+    return `hero is ${hero}`
 })
 
 

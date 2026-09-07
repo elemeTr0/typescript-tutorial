@@ -4,7 +4,7 @@
 //     isActive: true
 // }
 
-// function createUser({name: string, isPaid: boolean}){}
+// function createUser({name, isPaid}: {name:string, isPaid: boolean}){}
 
 // let newUser = {name:"mateo", isPaid: false, email: "m@m.com"};
 
@@ -22,7 +22,7 @@
 //     isActive: boolean;
 // }
 
-// //type Mystring = string //changes the keyword "string" to "Mystring"
+//type Mystring = string //changes the keyword "string" to "Mystring"
 
 // function createUser(user: User): User{
 //     return {name:"", email:"", isActive:true};

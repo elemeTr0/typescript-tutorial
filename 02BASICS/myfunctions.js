@@ -22,10 +22,10 @@ loginUser("m", "mateo.boris@example.com");
 const getHello = (s) => {
     return "";
 };
-const heros = ["thor", "spiderman", "ironman"];
+const heroes = ["thor", "spiderman", "ironman"];
 // const heros = [1,2,3]
-heros.map((hero) => {
-    return 'hero is ${hero}';
+heroes.map((hero) => {
+    return `hero is ${hero}`;
 });
 function consoleError(errmsg) {
     console.log(errmsg);
