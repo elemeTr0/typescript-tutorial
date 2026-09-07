@@ -1,5 +1,5 @@
 "use strict";
-const superHeros = [];
+const superHeroes = [];
 //const heroPower: number[] = []
 const heroPower = [];
 const allUsers = [];
@@ -8,9 +8,9 @@ const MLModels = [
     []
 ];
 allUsers.push({ name: "", isActive: true });
-superHeros.push("spiderman");
+superHeroes.push("spiderman");
 heroPower.push(2);
-const myArr = [1, 2, 3];
-console.log(myArr.pop());
-console.log(myArr.pop());
-console.log(myArr.pop());
+// const myArr: number[] = [1,2,3]
+// console.log(myArr.pop())
+// console.log(myArr.pop())
+// console.log(myArr.pop())

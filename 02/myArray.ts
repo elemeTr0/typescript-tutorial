@@ -1,4 +1,4 @@
-const superHeros: string[] = []
+const superHeroes: string[] = []
 //const heroPower: number[] = []
 const heroPower: Array<number> = []
 
@@ -18,7 +18,7 @@ const MLModels: number[][] = [
 allUsers.push({name:"",isActive: true})
 
 
-superHeros.push("spiderman")
+superHeroes.push("spiderman")
 heroPower.push(2)
 
 // const myArr: number[] = [1,2,3]
